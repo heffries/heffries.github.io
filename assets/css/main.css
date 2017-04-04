@@ -3519,7 +3519,7 @@
 		}
 
 			#banner.major.alt {
-				opacity: 0.2
+				opacity: 0.1
 				;
 			}
 
@@ -3548,7 +3548,8 @@
 		}
 /*BANNER Opacity*/
 		body.is-loading #banner:after {
-			opacity: 0.2
+			opacity: 0.1
+
 
 ;
 		}
