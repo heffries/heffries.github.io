@@ -3546,7 +3546,7 @@
 		#banner.style6:after {
 			background-color: #87c5a4;
 		}
-
+/*BANNER Opacity*/
 		body.is-loading #banner:after {
 			opacity: 0.2
 
